@@ -7,8 +7,8 @@ This is the repository for the _fMRI bootcamp_ of the [*Summer School in Sensory
 
 ## Overview
 
-- Implements the fundamental tools for _population Receptive Field_[(pRF)](https://www.sciencedirect.com/science/article/abs/pii/S1053811907008269?via%3Dihub) modeling in MATLAB
-- Requires `fminsearchbnd.m` (included in this repo) by John D'Errico for optimization (see [Matlab Central File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/8277-fminsearchbnd-fminsearchcon) and MATLAB Optimization Toolbox
+- Implements the fundamental tools for _population Receptive Field_ [(pRF)](https://www.sciencedirect.com/science/article/abs/pii/S1053811907008269?via%3Dihub) modeling in MATLAB
+- Requires `fminsearchbnd.m` (included in this repo) by John D'Errico (see [Matlab Central File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/8277-fminsearchbnd-fminsearchcon)) and MATLAB Optimization Toolbox
 - Includes basic plotting functions
 
 ---
