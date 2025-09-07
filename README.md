@@ -1,4 +1,3 @@
-
 # pRFer
 
 This is the repository for the _fMRI bootcamp_ of the [*Summer School in Sensory Neuroscience 2025*](https://www.unipi.it/wp-content/uploads/SWS_Binda_2025_Poster.pdf) organized by [University of Pisa](https://www.unipi.it) and [Science of Intelligence](https://www.scienceofintelligence.de/) with the support of [Circle U.](https://www.circle-u.eu/) initiative [NEUROBRIDGE](https://www.sns.it/en/tne-neurobridge-initiatives). 
